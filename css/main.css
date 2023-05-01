@@ -45,10 +45,12 @@ ul {
     --background-color: #efcb53;
     --border-color: #be9a23;
     margin-right: 30px;
+    margin-top: 40px;
 }
 .container .box3 {
     --background-color: #555fae;
     --border-color: #3f4ca2;
+    margin-top: 80px;
 }
 .container .box {
     background-color: white;
@@ -137,10 +139,12 @@ ul {
         margin-bottom: 20px;
     }
     .container .box2 {
+        margin-top: 0;
         margin-right: 0;
         margin-bottom: 20px;
     }
     .container .box3 {
+        margin-top: 0;
         margin-bottom: 20px;
     }
 }
